@@ -1,0 +1,69 @@
+.gradient-overlay {
+    height: 70%;
+    background-image: linear-gradient(to bottom, transparent, rgb(255, 254, 254));
+
+  }
+
+
+  .box1 {
+    position: absolute;
+    top: 200px;
+    left: 20px;
+
+    
+  }
+
+   .box2 {
+    position: absolute;
+    top: 200px;
+    left: 340px;
+    
+  } 
+
+   .box3 {
+    position: absolute;
+    top: 200px;
+    left: 660px;
+    
+  }
+
+  .box4 {
+    position: absolute;
+    top: 200px;
+    left: 980px;
+    
+  }  
+
+
+  .carotay {
+    Position:relative;
+  }
+
+
+
+  .box5 {
+    position: absolute;
+    left: 20px;
+
+    
+  }
+
+   .box6 {
+    position: absolute;
+    left: 340px;
+    
+  } 
+
+   .box7 {
+    position: absolute;
+    left: 660px;
+    
+  }
+
+  .box8 {
+    position: absolute;
+    left: 980px;
+    
+  }  
+
+
