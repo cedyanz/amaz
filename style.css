@@ -43,27 +43,33 @@
 
   .box5 {
     position: absolute;
-    left: 20px;
+    left: 1px;
 
     
   }
 
    .box6 {
     position: absolute;
-    left: 340px;
+    left: 1px;
     
   } 
 
    .box7 {
     position: absolute;
-    left: 660px;
+    left: 1px;
     
   }
 
   .box8 {
     position: absolute;
-    left: 980px;
+    left: 1px;
     
   }  
 
 
+
+
+
+  .sec2 {
+    Position:relative;
+  }
