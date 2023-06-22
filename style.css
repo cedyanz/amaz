@@ -8,7 +8,7 @@
   .box1 {
     position: absolute;
     top: 200px;
-    left: 20px;
+    left: 0px;
 
     
   }
@@ -16,7 +16,7 @@
    .box2 {
     position: absolute;
     top: 200px;
-    left: 340px;
+    left: 330px;
     
   } 
 
@@ -30,7 +30,7 @@
   .box4 {
     position: absolute;
     top: 200px;
-    left: 980px;
+    left: 990px;
     
   }  
 
@@ -43,33 +43,53 @@
 
   .box5 {
     position: absolute;
-    left: 1px;
+    left: 20px;
 
     
   }
 
    .box6 {
     position: absolute;
-    left: 1px;
+    left: 340px;
     
   } 
 
    .box7 {
     position: absolute;
-    left: 1px;
+    left: 660px;
     
   }
 
   .box8 {
     position: absolute;
-    left: 1px;
+    left: 980px;
     
   }  
 
 
 
-
-
-  .sec2 {
-    Position:relative;
+  .sld1 {
+    margin-left: 1.3rem;
   }
+
+
+  .sld2 {
+    margin-right: 6.7rem;
+  }
+
+/* 
+  .locup {
+    margin-bottom: 2rem;
+  } 
+
+
+  .bart {
+    margin-bottom: 2rem;
+  }
+
+  .langt {
+    margin-bottom: 2rem;
+  } */
+
+  
+
